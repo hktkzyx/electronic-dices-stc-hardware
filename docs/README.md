@@ -26,6 +26,11 @@ Electronic dice STC 是一个基于STC单片机的电子骰子项目。
 连续未操作自动进入休眠模式，直至再次按键。
 进入休眠的时间可以在固件中设置。
 
+### 固件
+
+固件项目为[Electronic dices STC](https://github.com/hktkzyx/electronic-dices-stc)
+固件通过Type C接口通过ISP烧录。
+
 ## 许可证
 
 [CERN-OHL-P v2](https://ohwr.org/cern_ohl_p_v2.txt) or later
