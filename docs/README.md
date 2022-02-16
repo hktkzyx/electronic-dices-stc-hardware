@@ -1,4 +1,4 @@
-# Electronic dice STC
+# Electronic dice STC 电子骰子
 
 ## 简介
 

@@ -1,6 +1,6 @@
 # Project information
-site_name: Electronic dices STC
-site_description: Electronic dices STC document
+site_name: Electronic dices STC 电子骰子
+site_description: Electronic dices STC 电子骰子文档
 site_author: hktkzyx
 copyright: 
   Copyright &copy; 2022 hktkzyx.
@@ -12,7 +12,7 @@ repo_url: https://github.com/hktkzyx/electronic-dices-stc-hardware
 
 # Configuration
 nav:
-  - Home: README.md
+  - '主页': README.md
 theme: 
   name: material
   language: zh
