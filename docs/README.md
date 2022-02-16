@@ -1,8 +1,8 @@
-# Electronic dice STC 电子骰子
+# Electronic dices STC 电子骰子
 
 ## 简介
 
-Electronic dice STC 是一个基于STC单片机的电子骰子项目。
+Electronic dices STC 是一个基于STC单片机的电子骰子项目。
 本项目利用51单片机生成伪随机数模拟投掷最多4个骰子。
 可以用于卡坦岛等对随机数质量要求较高的桌游等场景。
 
@@ -28,7 +28,7 @@ Electronic dice STC 是一个基于STC单片机的电子骰子项目。
 
 ### 固件
 
-固件项目为[Electronic dices STC](https://github.com/hktkzyx/electronic-dices-stc)
+固件项目为[Electronic dices STC](https://github.com/hktkzyx/electronic-dices-stc)。
 固件通过Type C接口通过ISP烧录。
 
 ## 许可证

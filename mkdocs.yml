@@ -17,8 +17,14 @@ theme:
   name: material
   language: zh
   features:
+    - navigation.indexes
+    - navigation.sections
     - navigation.tabs
     - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
 plugins:
   - search
 extra:
